@@ -1,0 +1,2 @@
+# No external dependencies required for the core logic.
+# Add 'requests' here if you plan to extend this to pull live data.
